@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DiscoverTMDb</string>
+    <string name="genre_title">TMDb Genres</string>
+    <string name="discover_title">Discover TMDb Movies</string>
+    <string name="detail_title">TMDb Movie Detail</string>
+    <string name="review_title">Reviews</string>
+    <string name="overview">Overview</string>
+    <string name="see_review">See Reviews</string>
+    <string name="duration_min">\u0020minutes</string>
+    <string name="written_by">Written by: \u0020</string>
+    <string name="empty_data">Return Empty Data</string>
+</resources>
